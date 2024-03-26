@@ -1,0 +1,25 @@
+{
+ "name": "Simon Game by Josepaul",
+ "short_name": "Simon Game",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#011F3F",
+ "icons": [
+    {
+      "src": "icons/lowres.png",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "icons/lowres.png",
+      "sizes": "72x72 96x96 128x128 256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/lowres.png",
+      "sizes": "72x72",
+      "type": "image/svg+xml"
+    }
+ ]
+}
